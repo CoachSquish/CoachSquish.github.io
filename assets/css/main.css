@@ -3122,6 +3122,7 @@ input, select, textarea {
 					display: block;
 					margin: 0 auto;
 					max-width: 20%;
+					filter: invert(1);
 				}
 
 		@media screen and (max-width: 1280px) {
